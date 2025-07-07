@@ -1,0 +1,970 @@
+Company,Description,Lead Tag
+AI FinTech,"An AI-driven SaaS for small business credit scoring",Hot
+EduTech Bot,"A chatbot platform for K-12 education",Research
+CleanSpace,"IoT sensors for smart city air quality monitoring",Research
+Trash.ai,"AI that identifies and sorts waste automatically",Hot
+Rent4Sure,"Rental verification platform for landlords",Research
+MediScan AI,"Automated radiology reports using deep learning",Hot
+SurveyBee,"Simple surveys for market research",Ignore
+AgriVision,"Satellite-based insights for farmers",Research
+CodeCollab,"Live pair programming tool",Research
+HealthTrail,"Fitness recommendation engine using user history",Hot
+NeuroPlay,"Brainwave-controlled gaming",Ignore
+ListMeUp,"To-do list and notes app",Ignore
+Petly,"Telehealth for pets",Research
+SafeChat,"Encrypted messaging for enterprises",Hot
+Classloop,"Virtual classrooms with analytics",Research
+RoboFund,"Robo-advisory investing platform",Hot
+BioCheck,"DNA-based health diagnostics",Hot
+QuickInvoice,"Invoice generator for freelancers",Ignore
+GameXplore,"AI opponent difficulty tuning in games",Ignore
+CivicBot,"Chatbot to help citizens access services",Research
+PlanTrack,"Project management for small agencies",Ignore
+DoctorDirect,"Direct-to-consumer healthcare kits",Hot
+AdZilla,"AI ad copy generator",Hot
+TidyTask,"AI to-do list prioritizer",Research
+StartupDNA,"Evaluate founders based on social bios",Research
+DataScout,"Cleans and validates marketing lists",Research
+VoiceTutor,"AI speech coach for public speakers",Research
+SensorSphere,"Modular environmental sensors",Ignore
+TeamPulse,"Employee sentiment tracker",Research
+FoundrScore,"Founder potential scoring tool using GPT",Hot
+LeadBot AI,"AI chatbot for pre-qualifying leads automatically",Hot
+DocuParser,"PDF data extractor for legal firms",Research
+PartyBoard,"Event planning coordination app",Ignore
+CareerSync,"Resume optimizer using machine learning",Hot
+InboxSweep,"Bulk unsubscribe and email cleaning service",Ignore
+HireScope,"Talent marketplace for software engineers",Hot
+GrantFinder,"Tool to find government startup grants",Research
+SnapMeet,"Casual meeting scheduling assistant",Ignore
+SpendGuard,"AI for analyzing business expenses",Hot
+FeedStream,"AI-powered social media post scheduler",Research
+LawBot,"Legal assistant bot for document review",Research
+BrightScan,"Computer vision for solar panel inspection",Hot
+TaskyApp,"Personal habit tracker with gamification",Ignore
+CryptoLens,"Portfolio tracker for cryptocurrency traders",Ignore
+FoundrMatch,"Platform to find technical co-founders",Research
+BudgetTrack,"Simple app to help freelancers track expenses",Ignore
+RecruitSense,"AI for pre-screening job candidates",Hot
+ZoomFocus,"Time tracker for remote teams with screenshots",Ignore
+LegalX,"AI contract checker for startups",Hot
+WasteWatch,"Smart waste bin with sensor alerts",Hot
+FocusNow,"Pomodoro timer with daily insights",Ignore
+BizTrend,"SaaS that spots emerging startup trends",Research
+SkillMatch,"Resume and job matching AI",Hot
+GreenScan,"IoT for detecting soil moisture in farms",Research
+SilentMeet,"Silent meeting tool with shared notes",Ignore
+LeadSync,"AI tool to qualify leads from form submissions",Hot
+BrightHire,"Video interview platform with AI insights",Hot
+WorkBoard,"Goal tracking for teams with real-time dashboards",Research
+DocScanner,"Mobile app for scanning documents",Ignore
+QuickPay,"Fast invoicing app for freelancers",Hot
+AgriTrack,"IoT sensors for crop health monitoring",Research
+SnapRent,"Simple room rental finder app",Ignore
+MarketMind,"AI-generated marketing strategies",Hot
+EduQ,"LMS for schools with progress tracking",Research
+Listly,"Basic to-do list with reminders",Ignore
+CodeBuddy,"Pair programming tool for remote teams",Research
+TeamBuzz,"Employee recognition and rewards app",Ignore
+FundFlow,"Startup funding tracker and CRM",Hot
+MailMonitor,"Tool to verify and clean email lists",Hot
+FocusZen,"Pomodoro timer for productivity",Ignore
+CloudCheck,"Uptime monitoring for cloud services",Hot
+BudgetBee,"Budget planner for personal finance",Ignore
+PodStream,"Podcast analytics dashboard",Research
+FleetTrack,"Vehicle tracking system using GPS",Research
+NeuroLearn,"Brain-based learning platform",Research
+DeskBot,"AI assistant for workspace search",Hot
+VoiceForm,"Voice-based form input system",Research
+NoteWell,"Simple note-taking app",Ignore
+LegalEase,"Document generator for small law firms",Research
+TalentSnap,"Resume shortlisting tool using AI",Hot
+ShopSnap,"Storefront generator for small businesses",Hot
+MeetQ,"Smart meeting scheduling assistant",Research
+TaskTray,"Minimalist task management app",Ignore
+ClaimPro,"AI-based insurance claim evaluator",Hot
+PlantAI,"Plant health analysis from pictures",Research
+PlayTrack,"App usage tracker for parents",Ignore
+AdGenie,"AI to write social ad copy",Hot
+Formy,"Online form builder with drag-drop",Ignore
+HireFlow,"Recruitment pipeline manager",Research
+TalkLoop,"Voice chat for online communities",Ignore
+FinCheck,"Financial health score for startups",Hot
+CodeSuggest,"AI code completion for devs",Hot
+MentorHive,"Mentorship platform for professionals",Research
+GoalList,"Goal setting and habit tracking app",Ignore
+Recycly,"AI-powered recycling sorter",Hot
+IdeaSpark,"Collaborative brainstorming whiteboard",Research
+RentSmart,"Home rental marketplace",Ignore
+WellnessAI,"Personalized fitness plans using ML",Hot
+AutoChart,"Turn data into charts with AI",Hot
+ZoomTags,"Smart transcription + tagging for Zoom",Research
+ClickTrack,"Website heatmap analytics tool",Research
+TimeLogix,"Simple time tracker for freelancers",Ignore
+SpeechMate,"Pronunciation coach for learners",Research
+QuickLaunch,"Startup launch checklist manager",Ignore
+CredScore,"Business credit scoring engine",Hot
+SkillWise,"Microlearning app for professionals",Research
+DropSend,"Send large files via email",Ignore
+GrantSnap,"Find relevant grants for non-profits",Research
+Artify,"AI turns sketches into art",Hot
+TrackRide,"Track your cab ride safety",Ignore
+PeerRate,"Peer feedback platform for schools",Research
+HireLens,"Job applicant screener using NLP",Hot
+ChatSnap,"Disposable chat rooms with timer",Ignore
+StartScore,"Startup evaluation for VCs",Hot
+PriceNudge,"A/B test pricing strategies",Research
+WorkZen,"Remote team task visualizer",Research
+Whispr,"Anonymous feedback tool",Ignore
+CrowdPredict,"Crowdsourced prediction markets",Research
+FundRadar,"Discover trending investment startups",Hot
+SkillMatch,"Match job seekers with right roles",Research
+DealDesk,"Contract approval workflow app",Research
+ScribbleMe,"Online whiteboard for teachers",Ignore
+AutoPitch,"One-click sales deck generator",Hot
+TravelFit,"Fitness while traveling app",Ignore
+FixIt,"Home repair request app",Ignore
+ScanGen,"Barcode generator for retailers",Research
+Brandify,"Brand personality quiz builder",Hot
+DocuBot,"Ask questions about your PDF",Research
+PitchPal,"Startup pitch practice with feedback",Hot
+TimeFence,"App that locks distractions",Ignore
+CheckupAI,"Symptom checker using ML",Hot
+GrowList,"Gardening app with plant reminders",Ignore
+QuizTime,"Create and share quizzes",Research
+Speechly,"Real-time speech-to-text converter",Hot
+MoodMap,"Track your mood over time",Ignore
+ProTask,"AI prioritization of tasks",Research
+IdeaBoard,"Pin and organize business ideas",Research
+OfferPro,"Salary negotiation prep tool",Hot
+NewsFlash,"Summarize news with GPT",Research
+SlideGen,"Auto-generate slides from docs",Hot
+DeskQ,"Queue system for co-working spaces",Ignore
+MindMapper,"Visual mind map creator",Ignore
+TrackEZ,"Simple expense tracker",Ignore
+ReachAI,"Cold email generation using GPT",Hot
+GreenPulse,"Home energy efficiency analyzer",Research
+ChatPlanner,"Group plan coordination bot",Ignore
+StartupLens,"Evaluate startup ideas with checklist",Research
+FinMentor,"Financial mentor matching",Research
+RecBot,"Resume scoring based on JD match",Hot
+CallSmart,"AI call summarizer for sales",Hot
+GhostMeet,"Anonymous virtual meetings",Ignore
+PlanWise,"Personal project planning tool",Ignore
+FinAI,"AI platform for fraud detection in banking transactions",Hot
+HireBoost,"Automated talent acquisition tool for enterprise HR",Hot
+DataClear,"Real-time GDPR compliance platform for companies",Hot
+SaleSync,"B2B CRM assistant with lead prioritization AI",Hot
+BuildMetrics,"Construction analytics dashboard for large projects",Hot
+LogixAI,"Machine learning for logistics route optimization",Hot
+PredictScope,"Churn prediction for SaaS businesses",Hot
+AdPilot,"AI ad targeting engine with multi-platform support",Hot
+InvoicerX,"Automated invoice processing for mid-size firms",Hot
+ChurnZeroX,"Customer churn predictor for subscription startups",Hot
+AgriAI,"Crop yield optimization using satellite data",Hot
+FundMatch,"Investor-startup matchmaking platform with ML scoring",Hot
+LawDocAI,"Contract summarizer for legal teams",Hot
+InsightSales,"Revenue forecasting with AI for sales teams",Hot
+ScaleMap,"Capacity planning tool for cloud infrastructure",Hot
+SmartHire,"Resume shortlisting based on job descriptions",Hot
+AutoComp,"Insurance claims comparison engine",Hot
+LogiBot,"Fleet management and route prediction AI",Hot
+TalentIQ,"Candidate sourcing with AI profile scoring",Hot
+FinDash,"Financial dashboard for startups with cashflow AI",Hot
+BillTrackerPro,"Enterprise bill reconciliation platform",Hot
+CyberSentinel,"AI-powered breach detection for SMBs",Hot
+ClickTrack,"Heatmap analytics for B2B SaaS websites",Hot
+LegalSnap,"AI tool to flag risky clauses in contracts",Hot
+InvestFlow,"Startup due diligence platform for VCs",Hot
+DocuAI,"PDF document search engine for enterprise",Hot
+SkillPredict,"Employee performance forecasting with ML",Hot
+LoanLens,"Credit scoring AI for microfinance lenders",Hot
+DataBridge,"Data pipeline builder for business users",Hot
+MarketMind,"Real-time pricing optimization engine",Hot
+ClaimGenie,"Insurance claim approval automation",Hot
+LeadMax,"Lead scoring engine for outbound teams",Hot
+HRInsight,"Attrition predictor and engagement analyzer",Hot
+PlanEdge,"Strategic planner for product roadmaps",Hot
+ChainAudit,"Blockchain contract auditor",Hot
+RouteAI,"Optimal delivery route generator for logistics",Hot
+EngageBoost,"Customer sentiment engine for chat support",Hot
+VaultID,"Identity verification with biometric validation",Hot
+CyberPulse,"Threat intel engine for enterprise security",Hot
+SalesFlareX,"Lead nurturing workflow with AI recommendations",Hot
+DealRank,"Startup evaluation with investor-fit scores",Hot
+PitchAI,"Investor pitch grader using GPT analysis",Hot
+FormFix,"Auto-filler and validator for onboarding forms",Hot
+TaskLogic,"Task prioritization engine for executive teams",Hot
+RevenueIQ,"Revenue leakage detector for subscription models",Hot
+RiskSentinel,"Compliance checker for regulated industries",Hot
+AutoBrief,"Executive summary generator for reports",Hot
+MeetingBot,"Action item extractor from meeting transcripts",Hot
+CheckMateAI,"Fraud check tool for procurement systems",Hot
+FlowManager,"Pipeline health tracker for sales ops",Hot
+ChatCRM,"Smart assistant for CRM note summarization",Hot
+HireBot,"Interview summarizer and ranking engine",Hot
+ExpenseX,"Expense category detector for finance automation",Hot
+CallRank,"Call analytics for outbound SDRs",Hot
+LeadRadar,"Opportunity detection based on firmographics",Hot
+Paperwise,"Document classification for enterprise libraries",Hot
+PulseHR,"Employee check-in mood detector",Hot
+NudgeAI,"Follow-up email generator for open leads",Hot
+WinPredict,"Deal-closing predictor based on engagement",Hot
+CaseTrack,"Legal case history pattern analyzer",Hot
+DealDesk,"Sales contract approval workflow optimizer",Hot
+FoundrScore,"Founder potential analyzer using digital footprint",Hot
+Briefly,"Executive email summarizer with GPT",Hot
+SlideFlow,"Auto-slide generator from Excel reports",Hot
+LaunchCheck,"Go-to-market readiness scoring system",Hot
+PropelX,"Accelerator scoring for early stage startups",Hot
+
+AIResearcher,"NLP tool to extract themes from scientific papers",Research
+ScanDoc,"Digitization system for historical manuscripts",Research
+ChemSim,"Simulation of chemical reactions in drug design",Research
+AstroAI,"Star cluster classification via telescope imagery",Research
+BioScan,"Protein structure predictor for labs",Research
+Histograph,"Timeline generator from document archives",Research
+NanoSense,"Nano-particle detection system",Research
+DeepMath,"Proof generator using deep learning",Research
+CropSim,"Climate impact simulator for agriculture",Research
+NeuroMap,"Brain activity visualizer from EEG data",Research
+WildTrack,"Animal movement tracker from drone feeds",Research
+EarthLens,"Satellite imaging analysis for geology",Research
+VaxPredict,"Modeling vaccine efficiency from test data",Research
+RoboTutor,"Adaptive learning system for STEM tutoring",Research
+SkyBot,"Atmospheric analyzer for weather balloons",Research
+BioGrid,"Genetic matching simulator",Research
+MedNLP,"Anonymizer for clinical text records",Research
+GeoAI,"Fault line prediction from seismic data",Research
+LabTrack,"Equipment usage monitor in research labs",Research
+AirGraph,"Visualization tool for air quality over time",Research
+FishSense,"Marine life tagging visual ID system",Research
+TreeAI,"Tree species identifier using leaf shape",Research
+SimCityPlan,"City growth simulator based on economic input",Research
+AstroSim,"Planetary orbit simulator",Research
+OceanScan,"Sonar data analyzer for undersea research",Research
+SynthGen,"Synthetic data generator for AI labs",Research
+PathMapper,"Genetic pathway visualizer",Research
+DeepField,"AI plant disease detector for research farms",Research
+DocuClassifier,"Classifier for legal vs. academic vs. press docs",Research
+StatLab,"Statistical model tester and evaluator",Research
+CodeSim,"Clone detector in academic code bases",Research
+TissueAI,"Tissue sample analyzer for med students",Research
+ScanClass,"Classifier for scanned handwritten forms",Research
+ScriptCheck,"Readability checker for technical documents",Research
+AutoAnnotate,"Auto-labeling tool for research datasets",Research
+SignalScope,"Signal analysis for EEG/ECG devices",Research
+HydroTrack,"Hydrology simulator for rainfall studies",Research
+MLViz,"ML model visual debugging platform",Research
+CloudSeg,"Cloud segmentation in satellite images",Research
+TextMiner,"Topic cluster analyzer for literature review",Research
+WhiteboardAI,"Collaborative whiteboard with math parser",Research
+PaperMind,"Research assistant for academic search",Research
+
+TaskList,"Simple task manager with reminder",Ignore
+NoteBear,"Cute notepad app for daily thoughts",Ignore
+WeatherLite,"Minimal weather app with sunrise time",Ignore
+PomodoroX,"Pomodoro timer with streak tracker",Ignore
+CalmFocus,"Ambient sound app for focus",Ignore
+HabitCircle,"Basic habit tracking journal",Ignore
+ScanNote,"Scan handwritten notes to PDF",Ignore
+BudgetEase,"Budget calculator for individuals",Ignore
+SleepZ,"Sleep sound generator",Ignore
+MoodTap,"Track your mood with emojis",Ignore
+FlashMe,"Flashcard app for school kids",Ignore
+DrawQuick,"Doodle app for kids",Ignore
+ListMaster,"To-do list with categories",Ignore
+GrocerEase,"Shopping list manager",Ignore
+ZenJournal,"Daily journaling app",Ignore
+ChoreBuddy,"Chore tracker for roommates",Ignore
+DailyQuote,"Get a motivational quote every morning",Ignore
+ColorSort,"Color matching game",Ignore
+PingMe,"Reminder app for tasks",Ignore
+FocusDot,"Single-purpose productivity timer",Ignore
+EZScan,"Quick barcode scanner",Ignore
+FontFun,"Fancy text generator for social media",Ignore
+AlarmX,"Alarm clock with math challenges",Ignore
+TapPaint,"Simple tap-to-color app",Ignore
+LightMood,"Mood light with screen color shifts",Ignore
+GoalTree,"Set and track simple goals",Ignore
+SleepTrackerLite,"Track sleep hours only",Ignore
+PushUpCount,"Counter app for exercises",Ignore
+CoinFlipX,"Flip a virtual coin",Ignore
+CalcPro,"Calculator with themes",Ignore
+TimeBuzz,"Vibration timer for meditation",Ignore
+DoodleNote,"Quick notes with drawing support",Ignore
+MyMirror,"Uses front camera as mirror",Ignore
+VoiceMemo,"Basic voice memo recorder",Ignore
+TinyTasks,"Micro-task checklist app",Ignore
+SnackTimer,"Countdown timer for snacks",Ignore
+MindDash,"Simple dashboard with your tasks",Ignore
+LinkList,"Bookmark manager",Ignore
+PlantLog,"Track your houseplant watering",Ignore
+FinPilot,"AI-based cashflow forecasting for SaaS startups",Hot
+AdTune,"Personalized ad optimization for B2B marketers",Hot
+LegalLink,"Contract lifecycle management for enterprises",Hot
+HireRank,"Automated applicant screening using NLP",Hot
+RouteX,"AI-based delivery route optimization for logistics",Hot
+InsightCRM,"Sales pipeline analytics for growing startups",Hot
+SmartQuote,"Instant quote generator for insurance firms",Hot
+BudgetWatch,"Corporate expense tracking with fraud alerts",Hot
+HRVision,"Attrition prediction and employee scoring for HR teams",Hot
+SecureID,"AI-powered ID verification for fintech onboarding",Hot
+TalkStream,"Real-time sentiment tracking during customer calls",Hot
+LeadRanker,"Lead scoring based on engagement and firmographics",Hot
+DocuAI,"Smart document parser for legal teams",Hot
+Forecastly,"Sales forecasting engine using historical CRM data",Hot
+FundSync,"VC deal flow management platform",Hot
+ChurnGuard,"Predictive analytics to reduce customer churn",Hot
+ScaleScope,"Cloud usage optimization and cost prediction",Hot
+NudgeBot,"Follow-up email sequence generator using AI",Hot
+FormSnap,"Smart onboarding form with data validation",Hot
+DealScan,"AI tool to scan and rank sales contracts",Hot
+TeamPulse,"Workforce mood analyzer for team leads",Hot
+AutoReconcile,"Automated invoice matching for accounting",Hot
+VaultCheck,"Security compliance tracker for startups",Hot
+StartupScore,"Startup evaluation engine for investors",Hot
+BrandSense,"AI tool to monitor brand mentions and tone",Hot
+PitchPerfect,"Real-time pitch feedback for fundraising teams",Hot
+PipelineAI,"Deal prioritization engine for sales ops",Hot
+CRMEnhance,"B2B lead enrichment from social & web data",Hot
+BizBench,"Benchmarking dashboard for SaaS metrics",Hot
+SwiftAudit,"Automated audit assistant for finance",Hot
+DevSync,"Developer task sync across platforms",Hot
+GoalBoard,"OKR management tool with team heatmaps",Hot
+ProdFlow,"Operational bottleneck detection for factories",Hot
+TimeTrackPro,"Time tracking for consulting firms",Hot
+InsightChain,"Real-time project analytics dashboard",Hot
+StockGuard,"Inventory risk prediction for wholesalers",Hot
+FleetIntel,"Vehicle usage insights for logistics",Hot
+QuoteGenie,"AI-generated quotes for enterprise SaaS",Hot
+SupportIQ,"Helpdesk auto-triage for customer issues",Hot
+TalentMatch,"Internal mobility matcher for large firms",Hot
+ProcureBot,"AI purchase assistant for procurement teams",Hot
+NeuroLab,"Brainwave data clustering for neuroscience experiments",Research
+GeoSpect,"Spectral analysis of rock samples from satellite data",Research
+CodeSim,"Source code plagiarism checker for academic use",Research
+AirStudy,"Air particle behavior modeling using CFD",Research
+DeepHist,"AI to reconstruct damaged historical texts",Research
+SkyLens,"Star cluster classification with telescope data",Research
+TextSumm,"Auto-summarizer for academic journals",Research
+NanoTrack,"Simulation of nanomaterial properties",Research
+DataLab,"Visualization toolkit for research datasets",Research
+PathGraph,"Protein interaction network visualizer",Research
+SoilSense,"Soil mineral distribution mapper from lab data",Research
+SynthModel,"Synthetic data generator for ML benchmarking",Research
+LogicGen,"Symbolic logic solver for academic researchers",Research
+ProofAI,"Mathematical theorem validator",Research
+BioSnap,"Gene expression simulator for biology labs",Research
+ScanClass,"Image classifier for ancient scripts",Research
+DocuMap,"Historical document geo-mapper",Research
+NeuroVis,"EEG signal visualizer for brain studies",Research
+AstroPulse,"Pulsar pattern detector from telescope data",Research
+SimNet,"Neural model simulator for ML students",Research
+SpeechGraph,"Phoneme analysis tool for linguists",Research
+ChemViz,"Molecule visualizer for chemistry classes",Research
+WhiteboardAI,"Collaborative AI whiteboard with math support",Research
+BioScanX,"Microscope image segmenter for bio labs",Research
+VibeNote,"Mood journaling app with daily prompts",Ignore
+ListBee,"Color-coded to-do list app",Ignore
+RemindX,"Reminder app with recurring task support",Ignore
+PlantCare,"Houseplant watering tracker",Ignore
+FocusRing,"Focus timer with ambient sounds",Ignore
+MoodMap,"Emoji-based daily mood tracker",Ignore
+GrocerNote,"Grocery list manager with categories",Ignore
+QuickTasks,"Minimalist task list with deadline alerts",Ignore
+SleepyTime,"Sleep tracker with bedtime alarms",Ignore
+ChoreWheel,"Chore assignment app for roommates",Ignore
+GoalTrack,"Basic habit tracker for students",Ignore
+ReadLog,"Reading list manager",Ignore
+TaskPop,"Gamified checklist with badges",Ignore
+MindNote,"Simple notebook with color tags",Ignore
+CoinFlipApp,"Digital coin flip simulator",Ignore
+AlarmMate,"Alarm clock with song support",Ignore
+BrightTasks,"Daily goal planner with streaks",Ignore
+WeatherNow,"Minimalist weather app",Ignore
+TapColor,"One-touch coloring app",Ignore
+SnackTimer,"Countdown timer for breaks",Ignore
+NoteSnap,"Quick note app with cloud sync",Ignore
+JotIt,"One-tap idea jotting app",Ignore
+SleepCycleX,"Sleep cycle tracker with alarm",Ignore
+MotivateMe,"Daily motivational quote app",Ignore
+SoundZen,"Focus sound mixer with timer",Ignore
+PomodoLite,"Simple Pomodoro timer",Ignore
+BudgetBuddy,"Weekly expense tracker for students",Ignore
+DoodleDesk,"Sketchpad app with export to PNG",Ignore
+HabitHalo,"Basic habit tracker with reminders",Ignore
+TimeTidy,"To-do list sorter by category",Ignore
+MindSpark,"Daily reflection journaling tool",Ignore
+FlashCardPro,"Flashcard creator for school use",Ignore
+QuickRemind,"Tap-to-set reminder tool",Ignore
+MirrorNow,"Uses phone camera as mirror",Ignore
+CalcuLite,"Basic calculator app with history",Ignore
+VocabPlus,"Word of the day with examples",Ignore
+SnoozeX,"Smart alarm with snooze pattern",Ignore
+BrightMood,"Color-based mood tracker",Ignore
+WalkCount,"Step counter with hourly goals",Ignore
+GoalList,"Weekly goal checklist",Ignore
+FinGrow,"Stock portfolio builder for new investors",Hot
+AdAlyze,"Ad A/B testing insights for marketers",Hot
+LeadGenie,"Lead segmentation using AI clustering",Hot
+SecureLegal,"Automated NDA analyzer for startups",Hot
+GrowthBot,"Revenue prediction for new product launches",Hot
+StartPitch,"Investor-ready pitch scorecard generator",Hot
+InvoiceAI,"Invoicing tool with smart due-date reminders",Hot
+ClientScore,"Client prioritization for account managers",Hot
+DataOpsNow,"Data operations health monitor",Hot
+ShopTrack,"Conversion insights for e-commerce platforms",Hot
+CloudMap,"Cloud spend visualization tool",Hot
+QualiAI,"Sales qualification scoring from email threads",Hot
+CallInsights,"Call recording sentiment analysis",Hot
+BrandFit,"Brand-consumer match based on persona clustering",Hot
+FormFlow,"Multi-step form analyzer for drop-off points",Hot
+PayTrack,"B2B payment dashboard with overdue alerts",Hot
+ScopeLead,"New business detector from funding news",Hot
+EmailGuard,"Spam intent detection for cold emails",Hot
+PipelineIQ,"Weighted pipeline predictor for sales managers",Hot
+LegalCheckr,"Legal document quality checker",Hot
+FinMatch,"Startup-investor fit matcher",Hot
+IdeaLens,"Startup idea evaluator using GPT scoring",Hot
+ClaimAI,"Insurance claim triage automation",Hot
+BizScope,"Competitive intelligence tool for B2B",Hot
+PitchHelper,"Pitch slide evaluator for fundraising teams",Hot
+PlanBot,"Quarterly planner with smart task alignment",Hot
+StartupScout,"Startup finder with traction indicators",Hot
+GeoSim,"Topographical change simulator from satellite data",Research
+ScanSort,"Image segmenter for lab test documents",Research
+SolarWatch,"Solar flare pattern detector from NASA data",Research
+MicroVision,"Microscopic image classifier for biology labs",Research
+GeneTrace,"Genetic sequence mapper",Research
+SignalSim,"Signal behavior simulator for antenna design",Research
+DeepTopic,"Topic clustering from long text data",Research
+GraphFlow,"Flow network analyzer for computer science",Research
+CodeTrain,"Model to recommend Python functions from docstrings",Research
+VoiceExtract,"Speech signal isolator from multi-source audio",Research
+XrayScope,"Anomaly detector in X-ray scans",Research
+NanoForm,"Nanoparticle behavior modeling",Research
+WhiteSpaceAI,"Whitespace detection in startup markets",Research
+StudyNet,"Researcher collaboration tool with data sharing",Research
+AutoLabelX,"Semi-automated labeling tool for ML datasets",Research
+DataCrate,"Tool for packaging and sharing research data",Research
+ClimaSim,"Weather pattern simulator",Research
+LogicMap,"Mathematical proof visualizer",Research
+NeuroMapper,"Brain scan feature extractor",Research
+HyperTune,"Hyperparameter tuning visualizer",Research
+PolyPredict,"Material behavior predictor for polymers",Research
+SimFarm,"Farming impact simulator for rainfall & fertilizer",Research
+ChemRank,"Ranking engine for lab-synthesized compounds",Research
+EthnoMap,"Ethnographic data clustering tool",Research
+SoundScope,"Waveform analysis tool for audio researchers",Research
+PathFinderAI,"AI-based pathway discovery in academic graphs",Research
+CodeExplainX,"ML model explainer for code classification",Research
+MathGen,"Math problem generator for schools",Research
+AutoGrade,"Quiz grader for STEM topics",Research
+PlanIt,"Goal tracker with project view",Ignore
+SleepAid,"Sleep routine tracker",Ignore
+DreamLog,"Dream journaling app",Ignore
+SnapNote,"Quick capture note app",Ignore
+FastCalc,"Simple calculator with memory",Ignore
+SmileSnap,"Camera app with emoji filters",Ignore
+FuelTrack,"Fuel log for vehicle owners",Ignore
+MoodRipple,"Mood tracker with ripple charts",Ignore
+WalkIt,"Step tracker with distance goal",Ignore
+PlayFocus,"Focus timer with background games",Ignore
+ColorMood,"Color diary for emotional check-ins",Ignore
+ChimeTime,"Hourly chime alarm",Ignore
+EZQuote,"Daily inspirational quote app",Ignore
+SketchBox,"Mini sketch app",Ignore
+MyClock,"Customizable analog clock app",Ignore
+TaskWidget,"To-do widget for phone home screen",Ignore
+StickerCam,"Add stickers to selfies",Ignore
+BlinkList,"Blinking task reminder app",Ignore
+EZPlanner,"Minimal daily planner",Ignore
+HabitTap,"Track habits with tap animations",Ignore
+GrowthScan,"Business health tracker for founders",Hot
+PitchPath,"Pitch deck builder with GPT tips",Hot
+ClientGauge,"Client sentiment dashboard",Hot
+AutoInvoiceX,"Recurring invoice generator for consultants",Hot
+KPIView,"KPI dashboard for non-tech managers",Hot
+SalesRadar,"Sales engagement monitor",Hot
+SmartHireX,"Resume screener with ATS optimization",Hot
+InsightLegal,"Contract red flag highlighter",Hot
+FinBoard,"Startup funding runway visualizer",Hot
+CRMScore,"CRM enrichment engine",Hot
+OutreachIQ,"Campaign effectiveness analyzer",Hot
+LegalFlow,"Workflow manager for legal ops",Hot
+OpsGenieX,"Operations efficiency AI monitor",Hot
+TeamCast,"Meeting summary and task assigner",Hot
+ColdMailX,"Cold email copy analyzer",Hot
+StartupGPA,"Startup grading tool based on traction",Hot
+BudgetSight,"Forecasting tool for marketing spend",Hot
+ScaleBot,"Hiring plan estimator for scaling teams",Hot
+CompEdge,"Competitive landscape explorer",Hot
+AuditTrail,"Audit compliance tracker",Hot
+MailMap,"Email response pattern analyzer",Hot
+TaskBrain,"Smart daily planner using past behavior",Hot
+FormTrack,"Form submission drop-off predictor",Hot
+PayoutWatch,"Payroll error predictor",Hot
+DocReviewAI,"Contract compliance checker for law firms",Hot
+BizRisk,"SMB risk scoring from financial data",Hot
+ScanSynth,"AI to classify historical lab photos",Research
+ProtoGraph,"Prototype visual modeling for engineering",Research
+AeroSim,"Aerodynamics simulator for aircraft wings",Research
+NetMiner,"Community detection from social networks",Research
+ImageStruct,"Structural analysis from X-ray imagery",Research
+BotLab,"Robotics simulation environment",Research
+EcoModeler,"Environmental impact modeling",Research
+BioLabNet,"Biosample inventory tracker",Research
+SpeechPathX,"Speech articulation analyzer for research",Research
+VizCluster,"Visual clustering tool for ML datasets",Research
+ThesisMap,"Mindmap generator for thesis structuring",Research
+CellDetect,"Cell counting AI for microscope slides",Research
+VibeViz,"Vibration signal visualizer",Research
+EyeTrace,"Pupil tracking for psychology experiments",Research
+CleanLab,"Lab test result digital visualizer",Research
+QuantifyIt,"Quantification tool for experimental data",Research
+LiteChem,"Simple chemical reaction balancer",Research
+FocusLogger,"Researcher's task time tracker",Research
+NeuroBuild,"Neural network builder for academic use",Research
+DocuGen,"Research paper outline generator",Research
+GraphSynth,"Syntactic graph generator for NLP tasks",Research
+SimBotics,"Multi-robot movement simulator",Research
+PathSense,"Disease pathway simulation tool",Research
+SynthRoute,"Chemical route planner for lab use",Research
+QuickScan,"Quick document scanner with filter options",Ignore
+DailyPush,"Push notification manager",Ignore
+MoodDots,"Color dot mood tracker",Ignore
+WhistleTimer,"Timer with whistle alert",Ignore
+BudgetBites,"Daily food budget planner",Ignore
+TapHabit,"Habit tracker with tapping animations",Ignore
+MemoRoll,"Endless scroll note-taking app",Ignore
+MoodDrop,"Drag-and-drop mood logging",Ignore
+ClockSpin,"Analog clock with spinning animation",Ignore
+SleepChime,"Soothing chime alarm for deep sleep",Ignore
+DotCheck,"Dot checklist app",Ignore
+ZenFlash,"Quote flasher with ambient music",Ignore
+ScrollList,"Scrolling task list",Ignore
+CheckFlip,"Flip card style checklist",Ignore
+CountDays,"Day counter since event",Ignore
+ListQuick,"Rapid entry list app",Ignore
+TimerTag,"Countdown timer with tags",Ignore
+ChoreList,"Family chore organizer",Ignore
+NoteTap,"Tap-style quick notes",Ignore
+MindPing,"Mental task reminder app",Ignore
+LeadSpark,"Real-time lead scoring from web forms",Hot
+SalesIQ,"Sales pipeline analyzer with close rate predictor",Hot
+InsightForms,"Form fill analysis for user experience teams",Hot
+SmartTagX,"Auto-tagging of inbound leads",Hot
+OutreachMap,"Cold outreach tracker with response scoring",Hot
+DocReviewX,"Clause-based contract issue detector",Hot
+CallScore,"Call quality analytics for SDRs",Hot
+ClientFlow,"Client journey visualizer for service businesses",Hot
+RevGenie,"Revenue projection generator",Hot
+HiringRadar,"Talent pipeline predictor",Hot
+ScopeGrowth,"Market expansion potential estimator",Hot
+BoardSync,"Board meeting insights from agenda data",Hot
+SmartBrief,"Executive summary generator from long docs",Hot
+StackAudit,"Tech stack analyzer for enterprise IT",Hot
+ConvertBoost,"Website copy performance tester",Hot
+InsightBot,"Insight generator from CRM data",Hot
+PitchPro,"Investor pitch score tracker",Hot
+StartFlow,"Startup journey analyzer from inputs",Hot
+QuoteBuilder,"Automated quote builder with AI copy",Hot
+BrandAI,"Brand tone & language consistency checker",Hot
+MarketPulse,"Real-time competitor movement monitor",Hot
+DocuGate,"Gatekeeper tool for document workflows",Hot
+TrendScope,"Startup trend analyzer from deal data",Hot
+AutoTrack,"AI tool to track conversion funnel leaks",Hot
+MailWatch,"Cold email bounce + open-rate forecaster",Hot
+GenSim,"Generative molecule simulator",Research
+LangStudy,"Multilingual dataset prep tool",Research
+OptiLab,"Lab experiment optimization assistant",Research
+CurveFit,"Regression pattern visualizer",Research
+NanoViz,"Nano-level image enhancement AI",Research
+CellScope,"Tissue classifier from microscope inputs",Research
+SynthGenX,"Data synthesis visual toolkit",Research
+DataLabelX,"Labeler with model feedback",Research
+TrialAnalyzer,"Clinical trial outcome visualizer",Research
+CoLabNote,"Shared digital lab notebook",Research
+DocSumm,"Scientific paper summarizer",Research
+SketchAI,"AI tool for outlining scientific figures",Research
+ProofTrack,"Math proof validator with LaTeX export",Research
+TrendTrackX,"Academic trend monitor from research databases",Research
+ChemBase,"Lab chemical registry with risk scores",Research
+FieldBot,"Field experiment logger",Research
+GraphDraw,"Dynamic graph visualizer",Research
+SimPlant,"Plant behavior simulator for botany",Research
+NeuroDraw,"Neuron structure drawing assistant",Research
+AutoQuiz,"STEM quiz creator for education",Research
+WhiteboardX,"Digital whiteboard for science teams",Research
+AutoAnnotator,"AI that suggests dataset labels",Research
+QuickList,"Simple checklist with tap to complete",Ignore
+TimeMark,"Timeline of personal events",Ignore
+BudgetBook,"Monthly budget tracker with pie charts",Ignore
+MirrorApp,"Front camera mirror with light controls",Ignore
+ZenTimer,"Silent timer for focus sessions",Ignore
+ColorMoodie,"Mood tracker using colors only",Ignore
+NoteCloud,"Notes app with sync to cloud",Ignore
+HabitWheel,"Circular habit tracker",Ignore
+CheckPop,"Pop-up checklist app",Ignore
+GoalPie,"Visualize your goals in pie charts",Ignore
+DreamLogX,"Dream journal with search",Ignore
+ToDoBlink,"Blinking reminder notifications",Ignore
+QuickFlash,"Flashcard flip app for learning",Ignore
+PlanBoard,"Whiteboard for weekly plans",Ignore
+SnoozeTune,"Alarm clock with snooze playlist",Ignore
+WriteNow,"Minimalist writing space",Ignore
+EmojiDiary,"Daily journal using only emojis",Ignore
+CalcNow,"Simple calculator with tip mode",Ignore
+CleanCalc,"Ad-free calculator",Ignore
+ChimeBell,"Chime every hour with quote",Ignore
+AIOutreach,"Email outreach assistant with GPT copy",Hot
+SalesBoostX,"AI-generated call scripts for sales reps",Hot
+LeadFusion,"Multi-channel lead integration platform",Hot
+TalentPredict,"Hiring outcome predictor for recruiters",Hot
+ChurnRadar,"Customer churn forecaster",Hot
+FormIQ,"Form behavior analytics for growth teams",Hot
+InsightLegalX,"Contract review assistant with GPT summary",Hot
+AutoCRM,"Auto-fill CRM fields from call transcripts",Hot
+GrowthScanX,"Growth potential analyzer from site content",Hot
+AdTuneX,"Campaign copy analyzer for ad teams",Hot
+InboxAI,"Inbound email prioritizer with lead scoring",Hot
+BriefGen,"Automated client brief generator",Hot
+DealRankX,"Deal quality predictor from CRM",Hot
+FoundrFit,"Founder-startup match score generator",Hot
+BenchTrack,"Compare product KPIs against industry benchmarks",Hot
+TouchPoint,"Client engagement tracker for B2B",Hot
+StartLens,"Startup health scoring with public signals",Hot
+SyncBrief,"Team briefing generator from scattered notes",Hot
+VisionScore,"Product vision clarity evaluator",Hot
+PlanIQ,"Execution risk predictor for startups",Hot
+BrandGen,"Brand voice generator for small businesses",Hot
+MeetingMate,"Meeting summary + task assignment AI",Hot
+RevenueFlow,"Recurring revenue projection tool",Hot
+PathSim,"Disease pathway simulator for labs",Research
+TrendMiner,"Paper citation trend visualizer",Research
+Cognify,"Cognitive task performance simulator",Research
+HypothesiX,"Hypothesis graph builder",Research
+LabVision,"Lab equipment usage heatmap",Research
+GenViz,"Genetic data visualizer for large datasets",Research
+PlotLab,"Auto plot creator from CSVs",Research
+MLNote,"Notebook with inline model explainers",Research
+CodeRunnerX,"Auto-grade coding lab assignments",Research
+SimStack,"Multi-variable simulator for lab conditions",Research
+ClusterView,"Cluster breakdown analyzer",Research
+WhiteBoardML,"Research discussion whiteboard with equations",Research
+MathWrite,"Handwritten math digitizer",Research
+DataSketch,"Interactive data sketching tool",Research
+StudyPulse,"Focus pattern visualizer from study logs",Research
+BioMatch,"Gene pairing simulator for study",Research
+CloudLabelX,"Shared dataset labeling workspace",Research
+ProofAIX,"Proof assistant with GPT hints",Research
+ChemNet,"Chemical reaction network visualizer",Research
+EduPath,"Curriculum path mapper for schools",Research
+LightNote,"Notebook app with themes",Ignore
+QuickJot,"Tap-and-type note entry",Ignore
+MoodLoop,"Mood tracker with looping animations",Ignore
+StepDot,"Simple daily step counter",Ignore
+CoinToss,"Virtual coin flipping app",Ignore
+GlowAlarm,"Alarm with gradual brightness",Ignore
+ListDrop,"Drag-and-drop task list",Ignore
+TrackZzz,"Sleep timer with wave sound",Ignore
+MyCalendar,"Minimal calendar view app",Ignore
+BudgetBox,"Weekly spend tracker",Ignore
+SmileMood,"Mood journal with selfie log",Ignore
+FastPlan,"One-tap task planner",Ignore
+Clockly,"Cute clock with world time",Ignore
+ChoreBox,"Shared chore box for roommates",Ignore
+QuoteBell,"Ring bell to get quotes",Ignore
+DrawLite,"Lightweight sketching app",Ignore
+TimePin,"Pin your tasks on a timeline",Ignore
+DoodleTap,"Tap and doodle game",Ignore
+ListRay,"Task list with ray animations",Ignore
+MirrorLite,"Fast mirror view",Ignore
+LeadAI,"Smart lead enrichment from email signature",Hot
+PitchScore,"Pitch feedback scorer using GPT",Hot
+StartupFlow,"Startup maturity stage predictor",Hot
+CRMEnhanceX,"CRM auto-update from meeting notes",Hot
+DealBoost,"Deal momentum tracker for sales managers",Hot
+TalentTag,"Candidate tagger from resume highlights",Hot
+ResponseGen,"Email reply auto-generator for sales",Hot
+InsightTrack,"Visual KPI progress for growth teams",Hot
+AdMatch,"Ad creative alignment checker",Hot
+SmartClient,"Client mood and risk tracker",Hot
+InboxGenie,"Smart assistant to triage outreach replies",Hot
+CompAnalyst,"Competitor comparison engine",Hot
+BudgetSnap,"Real-time budget dashboard with ML alerts",Hot
+PlanCast,"Roadmap health monitor for teams",Hot
+TimeMatch,"Scheduler assistant with best-fit scoring",Hot
+FormBoost,"Form conversion predictor",Hot
+ChurnWatchX,"Retention risk alert tool",Hot
+SurveyScan,"Survey result insight extractor",Hot
+TaskFlowAI,"Workflow prioritization AI",Hot
+FoundrRadar,"Founder traction scoring engine",Hot
+SignalRank,"Startup signal scoring from social + PR",Hot
+GrantMiner,"Research grant matching platform",Research
+ChemAI,"Molecule property predictor for R&D",Research
+StudyTrack,"Research project tracker with timeline",Research
+DataExplorX,"Dataset auto-analyzer for academics",Research
+AstroNet,"Star mapping from telescope images",Research
+SimLens,"Lens refraction simulator for physics",Research
+ReadScore,"Readability scorer for academic writing",Research
+NeuroCheck,"Signal analyzer for EEG recordings",Research
+VoiceMap,"Sound localization simulator",Research
+TopicFlow,"Topic flow visualizer for paper sections",Research
+BioGraph,"Interactive biological process mapper",Research
+LightLab,"Light reflection simulation tool",Research
+AirSense,"Air pollution sensor simulator",Research
+DocuPath,"Citation flow mapping in academic papers",Research
+NeuroMark,"Brain marker detector from EEG",Research
+OptiDesign,"Physics experiment optimizer",Research
+SimVision,"Visual reaction test tracker",Research
+SpeechSplit,"Speech/audio separation tool",Research
+TrendNarrate,"Narrative extractor from citation patterns",Research
+HypothesisFlow,"Hypothesis tree generator",Research
+SnapHabit,"Daily habit checker with reminder",Ignore
+SleepStar,"Bedtime reminder with lunar visuals",Ignore
+BrightList,"Bright UI task list",Ignore
+MoodEmoji,"Emoji-based daily mood logger",Ignore
+DayPin,"Pin your best moment of the day",Ignore
+ClickTask,"Click to finish task list",Ignore
+HappyNote,"Write 1 happy thing per day",Ignore
+LightTimer,"Minimal white timer with tone alert",Ignore
+DreamMap,"Sketch your dream nightly",Ignore
+ZenMirror,"Mirror with affirmations",Ignore
+ChorePie,"Pie chart for chores done",Ignore
+VoiceNoteX,"Quick voice memo capture",Ignore
+CalcSnap,"One-screen calculator with copy",Ignore
+SleepFlash,"Flash your goals before bed",Ignore
+JotBoard,"Note board with sticky layout",Ignore
+StickerMood,"Sticker mood diary",Ignore
+FlowAlarm,"Wake up with calming flow sound",Ignore
+BlinkLight,"LED reminder blinker",Ignore
+PlanPop,"Popup weekly planner",Ignore
+QuickCount,"Quick tap-based counter",Ignore
+ChatLead,"Chat-based lead capture + tagging",Hot
+MeetSync,"Meeting insight extraction and summary",Hot
+AutoTagCRM,"Auto-tagging new contacts in CRM",Hot
+InboxAI Pro,"GPT-powered inbox triage for sales",Hot
+CallFlowX,"Call intent classifier",Hot
+ScheduleRank,"Meeting prioritizer with deal weight",Hot
+PitchTrend,"Pitch deck analyzer using trends",Hot
+SalesMirror,"Rep behavior mirror for coaching",Hot
+NurtureMap,"Lead nurturing journey visualizer",Hot
+DeskAudit,"Desk-side workflow bottleneck tracker",Hot
+DataTrail,"Engagement trail scorer for outbound",Hot
+DealAlertX,"Instant notification for sales shift risk",Hot
+LegalFuse,"Contract clause comparator",Hot
+ClickRatePro,"CTR predictor for cold email subject lines",Hot
+TeamRadar,"Team sync summary + sentiment",Hot
+DashBotX,"Executive dashboard assistant",Hot
+InsightBoard,"Snapshot dashboard from meeting notes",Hot
+KPIHeat,"Heatmap of KPI movement over time",Hot
+TouchPointX,"Customer pulse monitor post-demo",Hot
+VoiceTagAI,"Voicemail intent and urgency detector",Hot
+AutoPersona,"Persona generator from client emails",Hot
+NeuroCloud,"Cloud-based EEG data clustering",Research
+GraphWeave,"Interactive graph theory visualizer",Research
+PathPattern,"Disease pattern detector in lab data",Research
+SyntaxLens,"Syntax pattern detector for NLP",Research
+LabSense,"Environmental lab condition logger",Research
+ScanAssist,"Document digitizer with layout parser",Research
+CiteBot,"Citation suggester for researchers",Research
+DocSync,"Sync research notes with PDF highlights",Research
+ReactionMap,"Chemical reaction pathway visualizer",Research
+FocusTimerX,"Lab focus timer with result logging",Research
+TextMap,"Text segmentation explorer for large docs",Research
+SimPulse,"Heart signal simulator",Research
+AutoSlide,"Auto-slide generator for lab presentations",Research
+QuizGenX,"Quiz generator from uploaded notes",Research
+TopicTide,"Topic evolution tracker in long reports",Research
+InsightSpark,"Sparkline generator for academic results",Research
+NLPCheck,"Natural language grammar visualizer",Research
+EduCluster,"Academic performance cluster mapper",Research
+NoiseViz,"Sound pattern visualizer",Research
+PaperLens,"AI-powered research focus suggester",Research
+MoodSpark,"Log your emotion and get matching quote",Ignore
+PlanBright,"Color-coded daily planner",Ignore
+QuickRing,"Tap-based timer with bell",Ignore
+TimeTrackLite,"Simple productivity tracker",Ignore
+MirrorSnap,"Mirror app with screenshot",Ignore
+ListFly,"Checklist that floats on screen",Ignore
+ZenPause,"Pause with visual focus timer",Ignore
+GoalPing,"Reminder ping for personal goals",Ignore
+TaskWhirl,"Animated task completion list",Ignore
+IdeaPin,"Pin your ideas to digital corkboard",Ignore
+HappyDot,"Emoji mood dot tracker",Ignore
+SnapTask,"Tap-based quick task capture",Ignore
+TimerBubble,"Timer with bubble animation",Ignore
+BrightPlan,"Vibrant planner with dark mode",Ignore
+DreamClock,"Alarm clock with dream log",Ignore
+HabitMark,"Minimalist habit checkbox",Ignore
+ToDoChime,"To-do app with hourly chime",Ignore
+FocusSound,"Ambient sound for focus sessions",Ignore
+SleepLoom,"Dream theme visual sleep timer",Ignore
+ReminderCloud,"Cloud sync reminder tool",Ignore
+CRMGenie,"CRM enrichment with website + social scrape",Hot
+InsightPitch,"Pitch performance feedback with analytics",Hot
+AutoCRMFit,"Fit score for CRM leads",Hot
+PitchIndex,"Pitch quality index with competitor benchmark",Hot
+LeadTemp,"Lead warmth scoring via activity trails",Hot
+KPIReflect,"Compare current KPIs with last quarter",Hot
+WinRateAI,"Win rate prediction from rep behavior",Hot
+InvestorFit,"Investor-founder fit score based on thesis",Hot
+DataPing,"Live data monitor for sales dashboards",Hot
+ResponseHeat,"Response heatmap for client communication",Hot
+CopyScore,"Sales copy scoring via NLP",Hot
+ValueAI,"AI-generated value proposition suggestions",Hot
+RepliBot,"Bot to generate sales reply drafts",Hot
+TeamMatchX,"Team skill fit analyzer for startup projects",Hot
+FormFixX,"Drop-off fix recommender for lead forms",Hot
+MarketAlert,"Market signal alert engine for verticals",Hot
+LegalGauge,"Legal doc risk level scorer",Hot
+PersonaLens,"ICP detection from call summary",Hot
+StrategyMap,"OKR effectiveness visualizer",Hot
+SpeechPulse,"Call tone analyzer with urgency metric",Hot
+OutreachMatch,"Best outreach channel prediction",Hot
+SimVisionX,"MRI simulation training interface",Research
+CellTagger,"Cell structure tag suggester for images",Research
+MathMap,"Math formula visual map generator",Research
+CodeWalk,"Code structure visual explainer",Research
+MetaNote,"Note assistant with concept linking",Research
+SlideMind,"Slide auto-outline from academic text",Research
+HypothesiViz,"Hypothesis network visualizer",Research
+ResearchDash,"Mini dashboard for academic paper stats",Research
+AIGrade,"Lab assignment grader with feedback",Research
+SignalTrack,"Signal classification for biomedical sensors",Research
+EduSynth,"Dataset synthesizer for ML education",Research
+StemBoard,"Collaboration board for STEM teams",Research
+DataQuest,"Mini data explorer for school research",Research
+TextFocus,"Text highlighter with sentiment flag",Research
+HypothesisGraph,"Link hypotheses to evidence",Research
+TimeTracer,"Time log tool for lab sessions",Research
+ConceptTree,"Mindmap builder for science notes",Research
+QuickCite,"Inline citation assist tool",Research
+WhiteBoardSync,"Whiteboard that syncs to cloud",Research
+PlanGrid,"Grid-based experiment planner",Research
+ChemTrack,"Chemical stock + expiry tracker",Research
+PaperSort,"Paper organizer with auto-tagging",Research
+DataBridge,"Real-time integration of marketing and CRM data",Hot
+AdLens,"Advertising ROI dashboard with AI optimization",Hot
+QuotaTrack,"Track and boost rep quota attainment with ML",Hot
+DealPulse,"Live dashboard for deal momentum and risk",Hot
+SmartBriefX,"Automated daily sales briefings",Hot
+LeadSyncAI,"AI-based lead source-to-conversion tracker",Hot
+AutoDemo,"Smart auto-demo scheduler based on availability",Hot
+KPIAlign,"Tool to align rep activity with KPIs",Hot
+VoiceFocus,"Call recording cleaner with filler removal",Hot
+SalesSync,"Deal collaboration space with file integration",Hot
+BrandEcho,"Brand perception scanner for B2B",Hot
+ScriptGen,"Dynamic call script generator",Hot
+OutreachTracker,"Cold outreach performance heatmap",Hot
+ClientSignal,"Intent signal aggregator from web behavior",Hot
+PitchAlign,"Checks pitch deck alignment with ICP",Hot
+InsightMiner,"Dig insights from raw sales call transcripts",Hot
+ResponseTrack,"Tracks delays in outbound replies",Hot
+TouchFlow,"Account touchpoint flow analyzer",Hot
+PersonaSync,"Sync client personas to CRM",Hot
+CRMFlagger,"Flag out-of-date fields in CRM automatically",Hot
+AutoScore,"Auto score leads based on firmographics",Hot
+InvestorRadar,"Scout and rank active investors by thesis fit",Hot
+SalesCoachX,"Coaching alerts based on rep behavior",Hot
+PitchRate,"Crowdsource-based pitch rating platform",Hot
+DemoReady,"Pre-demo checklist AI assistant",Hot
+TimeFit,"Calendar meeting fit predictor",Hot
+DocuSort,"AI to group and tag legal PDFs",Hot
+FoundrBench,"Founder benchmarking tool",Hot
+AdCopyX,"AI-generated ad variations by persona",Hot
+GrantGauge,"Auto-match startup ideas to grants",Hot
+CodeGenie,"Code recommendation assistant",Hot
+PlantPulse,"Soil + light + water AI tracker",Research
+AstroTrack,"Map celestial body movement with ML",Research
+FocusGraph,"Focus time tracking graph for researchers",Research
+SimTestLab,"Lab experiment simulator with multiple variables",Research
+ModelSense,"Compare ML models on visual dashboards",Research
+NoteChain,"Link research notes like a knowledge graph",Research
+ChemTutor,"Molecule structure quiz generator",Research
+ScanAI,"Scan and digitize handwritten equations",Research
+PaperRankX,"Paper ranking tool by relevance score",Research
+SimChemLab,"Run chemical reactions virtually",Research
+OptiGraph,"Choose optimal graph representation",Research
+HypothesisLab,"Interactive platform to design/test hypotheses",Research
+SpeechCheck,"Pronunciation scoring with waveform view",Research
+BioGroup,"Cluster biosample similarities",Research
+AIWhiteboard,"Auto-detect shapes and equations",Research
+TimePlanX,"Time allocation dashboard for research tasks",Research
+SlideAuto,"Auto-build lecture slides from notes",Research
+ProofSketch,"Sketch mathematical proof logic",Research
+FocusTrackX,"Track focus time vs outcome effectiveness",Research
+NotePulse,"Note-taking app that highlights high-frequency terms",Research
+IdeaNet,"Visualize how research ideas evolve over time",Research
+NeuroFlash,"EEG flash event visualizer",Research
+MathBoard,"Interactive math whiteboard with hints",Research
+EduSimX,"Simulate teaching effectiveness with learner feedback",Research
+MindMapSync,"Sync mindmaps with PDF sections",Research
+ConceptTagX,"Auto-tag concepts in scanned notes",Research
+PaperDash,"Your paper reading dashboard",Research
+IdeaFlow,"Visual path from hypothesis to results",Research
+PitchBoard,"AI-based pitch deck layout recommender",Hot
+Client360,"Unified view of client interactions across platforms",Hot
+CallTuner,"Speech pattern tuning for SDRs",Hot
+DemoTrack,"Demo-to-close rate analyzer",Hot
+ScopeAlert,"New opportunity detector based on CRM signals",Hot
+RevenueSense,"Revenue dip predictor using ML",Hot
+InboxAction,"Turn email content into CRM actions",Hot
+TaskPulse,"Daily task priority ranker for sales reps",Hot
+ClientBond,"Client trust score from historical comms",Hot
+TouchSync,"Multi-touchpoint sales tracker",Hot
+MarketScan,"Opportunity scoring from market news",Hot
+FollowX,"Follow-up urgency prediction",Hot
+KPITracer,"KPI anomaly detector for sales managers",Hot
+ColdScriptX,"Cold script generator for niche verticals",Hot
+SalesHeat,"Heatmap of deal progress across pipeline",Hot
+EngageRank,"Engagement ranker based on email/call activity",Hot
+CRMFix,"Find & fix missing CRM fields",Hot
+FunnelFit,"Sales funnel health visualizer",Hot
+VoiceMood,"Customer mood detector on support calls",Hot
+SyncPersona,"Sync buyer personas from deal activity",Hot
+SimChemX,"Virtual lab reaction builder",Research
+PathDetect,"Genetic mutation path visualizer",Research
+BioStudyBoard,"Progress board for ongoing biology studies",Research
+NanoCompare,"Compare nanomaterials for test results",Research
+GraphAI,"Graph visual AI reasoning for logic circuits",Research
+SyntaxLab,"Sentence structure lab for linguistic researchers",Research
+SlideSketch,"Sketch to slide converter for teaching",Research
+QuizLink,"Quiz generator from research articles",Research
+LabClarity,"Tool to clarify lab instructions with AI",Research
+HypothesiNote,"Linked hypothesis note-taker",Research
+ChemToolX,"Chemical name to formula converter",Research
+NeuroRead,"EEG-based reading difficulty scorer",Research
+SimGalaxy,"Galaxy formation simulation platform",Research
+StemClassAI,"Virtual assistant for STEM tutoring",Research
+BioSketch,"Sketch anatomy and label with AI help",Research
+PaperPilot,"Assistant to read and summarize PDFs",Research
+IdeaStorm,"Research idea board with tag clouds",Research
+GraphMap,"Mind map builder for logical argument chains",Research
+MathQuizAI,"Auto-generate math quizzes with step solutions",Research
+CodeExplainr,"Explain short code snippets for students",Research
+FocusNote,"Time-stamped research note app",Research
+LabLens,"Microscope image enhancer",Research
+RemindX,"Smart reminder with day prediction",Ignore
+DreamTunes,"Dream logging with music tones",Ignore
+CheckQuick,"Quick checkbox app with audio feedback",Ignore
+MoodTile,"Tile-based mood selector",Ignore
+TaskHop,"Jump between tasks using gestures",Ignore
+ListyNote,"Notes in listy visual style",Ignore
+BlinkRemind,"Blinking alert system for habits",Ignore
+SleepEase,"Sleep sounds with bedtime journaling",Ignore
+SnapChore,"Photo-based chore tracker",Ignore
+GlowList,"To-do list that glows on deadlines",Ignore
+TapClock,"Clock with vibration tap alerts",Ignore
+BrightFocus,"Focus timer with flashing screen",Ignore
+StickerTrack,"Track habits using stickers",Ignore
+EchoNote,"Echo-record your quick thoughts",Ignore
+DoodleList,"Task doodler with shape notes",Ignore
+MoodSketch,"Sketch-based emotion journal",Ignore
+PomFocus,"Pomodoro timer with motivational quotes",Ignore
+HappyTrack,"Track happy moments with gifs",Ignore
+ZenMark,"Bookmark peaceful videos for breaks",Ignore
+ListSpin,"Rotating task selector",Ignore
+QuickMood,"Instant mood log with voice input",Ignore
