@@ -1,3 +1,6 @@
+#the command lines are are for using this model for OPENAI application..It is versatile, and can be used for getting data from just openAI
+
+
 # lead_score.py
 
 #import openai
